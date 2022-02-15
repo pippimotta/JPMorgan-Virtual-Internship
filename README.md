@@ -70,3 +70,12 @@ Note: You may need to (hard) refresh the link to the public gdrive to see all of
 
 <h2>How to submit your work</h2>
 <p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt">JPM Module 3 Page</a>.</p>
+
+##Something new I learned
+Have a primary look into React Components & Typescript
+Improving the ability to dig key of debugging in the Issue forum of a certain project (npm install/ npm start)
+(Almost) smoothly following the guide slides to modify the code to meet the requirements
+
+##Something needed to be improved
+Have to gain a deeper understanding of Type in Typescript
+*A bug in Task 3 was falied to be solved: Type "Row" is not assignable to type "string"
