@@ -1,4 +1,3 @@
-// @ts-ignore
 import React, { Component } from 'react';
 import { Table } from '@finos/perspective';
 import { ServerRespond } from './DataStreamer';

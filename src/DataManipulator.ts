@@ -1,4 +1,3 @@
-
 import { ServerRespond } from './DataStreamer';
 
 export interface Row {
